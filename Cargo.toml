@@ -1,0 +1,6 @@
+[package]
+name = "jgit-rust"
+version = "0.1.0"
+authors = ["jyane <jyane.kstm@gmail.com>"]
+
+[dependencies]
